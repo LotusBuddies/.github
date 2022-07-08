@@ -1,6 +1,14 @@
 # You’ve found the Lotus Buddies.
 
-This is a collaborative project space mainly to promote Tzu Chi “3-in-1” media/documentation work, along with other side aspirations. Feel free to poke around.
+This is a collaborative space mainly to promote Tzu Chi “3-in-1” media/documentation work, along with other side aspirations. Feel free to poke around.
+
+
+
+
+## Current Projects
+
+* [Tzu Chi 3-in-1 Quickstart Guide](/LotusBuddies/31QuickGuide)
+
 
 
 
