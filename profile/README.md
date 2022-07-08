@@ -34,5 +34,8 @@ What 3-in-1 _doesn’t_ mean, however, is that each one of us can do it all, bec
 Practicality, given the low barrier of entry and ease of consumption.
 
 
+### What’s with the profile picture?
+
+Needed something that didn’t take itself too seriously; a quick-and-dirty composite emoji of the lotus with the innocent/halo was deemed sufficient. (Base graphics taken from [Twemoji](https://twemoji.twitter.com/).)
 
 
