@@ -7,7 +7,7 @@ This is a collaborative space mainly to promote Tzu Chi “3-in-1” media/docum
 
 ## Current Projects
 
-* [Tzu Chi 3-in-1 Quickstart Guide](/LotusBuddies/31QuickGuide)
+* [Tzu Chi 3-in-1 Quickstart Guide](https://github.com/LotusBuddies/31QuickGuide)
 
 
 
