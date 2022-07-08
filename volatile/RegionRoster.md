@@ -1,8 +1,10 @@
 # Tzu Ching Regional Roster – Specifications
-
 Tentative format will be a spreadsheet, with each chapter on its own sheet.
 
-## Required Columns
+
+
+## Main Columns
+All of these columns are required, except when not applicable (mark n/a)
 
 ### Designation
 * **Tzu Ching**: club officer or a club member with uniform
@@ -20,20 +22,20 @@ Self-explanatory.
 
 ### AKA
 Chinese name, nicknames, etc.
-Use n/a if none applicable.
 
 ### E-Board Roles
-List all e-board roles currently and previously held (w/ academic year, if possible)
-Use n/a if person was not involved in Tzu Ching as a student
+List all e-board roles currently and previously held (w/ academic year, if possible/known); n/a if not involved in Tzu Ching as student
 
 ### Contact
 Preferred contact method(s) and information. People who are uncomfortable with their contact information listed may elect a “contact through club president” option. For Facebook Messenger, require the Facebook profile name in addition to either the user ID or the custom URL.
 
 ### Carpool
-If the person has a vehicle that can assist in carpooling, indicate passenger capacity. If not, indicate willingness to be a driver (valid DL needed, of course). Mark n/a for any other scenario.
+If the person has a vehicle that can assist in carpooling, indicate passenger capacity. If not, indicate willingness to be a driver (assuming valid DL).
 
 
-## Optional Columns
+
+## Secondary Columns
+Optional but helpful.
 
 ### Skills & Competencies
 _Prompt: What are some things you excel at that you would like to bring to Tzu Ching? How would you apply it to further Tzu Chi’s Missions?_
