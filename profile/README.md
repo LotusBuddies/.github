@@ -16,9 +16,9 @@ Lotus buds, lotus buddies. Nothing deep, though it certainly helps the joke that
 
 ### What does “3-in-1” mean?
 
-**3-in-1** (三合一) is a shorthand for the media/documentation team, named for the three media: **photography** (攝影), **videography** (錄影), and **journalism** (文字).  There is also a second meaning, alluding to the the principles of **truth** (真), **compassion** (善), and **beauty** (美); that is, we aim to _truthfully_ document our works of _compassion_ and to do so _beautifully_.
+**3-in-1** (三合一) is a shorthand for the media/documentation team, named for the three media: **photography** (攝影), **videography** (錄影), and **journalism** (文字).  There is also a second meaning, alluding to the the principles of **truth** (真), **compassion** (善), and **beauty** (美); that is, we strive to be truthful in our presentation of Tzu Chi history in a way that is mindful and considerate toward the subjects portrayed therein, and to do so aesthetically.
 
-What 3-in-1 _doesn’t_ mean, however, is that each one of us can do it all. We can’t! Not only is it a lot of work, the work doesn’t end when the event ends. Which is why it’s so important for us to recruit as much as possible to split the workload.
+What 3-in-1 _doesn’t_ mean, however, is that each one of us can do it all, because we can’t! Not only is it a lot of work, the work doesn’t end when the event ends, which is why it’s so important for us to recruit as much as possible to share the workload.
 
 
 ### Why is there a heavy emphasis on photography?
