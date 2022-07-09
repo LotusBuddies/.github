@@ -1,5 +1,5 @@
 # Tzu Ching Regional Roster – Specifications
-Tentative format will be a spreadsheet, with each chapter on its own sheet.
+~~Tentative format will be a spreadsheet, with each chapter on its own sheet.~~ TBD
 
 
 
