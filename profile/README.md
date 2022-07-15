@@ -13,7 +13,7 @@ This is a collaborative space mainly to promote Tzu Chi “3-in-1” media/docum
 
 * Saving for bamboo bank
 * More compassionate eating
-* WWMS (what would Master say)
+* WWMS (what would Master say) / jing si fanfiction
 
 -->
 
