@@ -9,8 +9,12 @@ This is a collaborative space mainly to promote Tzu Chi “3-in-1” media/docum
 
 * [Tzu Chi 3-in-1 Quickstart Guide](https://github.com/LotusBuddies/31QuickGuide)
 
+<!-- Invisible Ink :)
 
+* Saving for bamboo bank
+* More compassionate eating
 
+-->
 
 
 ## Flawlessly Anticipated Questions
